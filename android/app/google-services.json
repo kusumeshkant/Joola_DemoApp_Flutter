@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1048353827044",
+    "project_id": "joola-sample-app",
+    "storage_bucket": "joola-sample-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048353827044:android:f48f8b6838ac274773a4f1",
+        "android_client_info": {
+          "package_name": "com.example.sampleapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNzycjyTRxItH-tw2Lgh1vFruCqofb5Eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
